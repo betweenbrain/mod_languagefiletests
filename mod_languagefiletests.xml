@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.2" type="module" method="upgrade">
+	<name>mod_languagefiletests</name>
+	<creationDate>September 04, 2014</creationDate>
+	<author>Matt Thomas</author>
+	<authorEmail>matt@betweenbrain.com</authorEmail>
+	<authorUrl>www.betweenbrain.com</authorUrl>
+	<copyright>(C) 2014 betweenbrain llc. All rights reserved.</copyright>
+	<version>0.0.1</version>
+	<description>MOD_LANGUAGEFILETESTS_DESC</description>
+
+	<files>
+		<filename module="mod_languagefiletests">mod_languagefiletests.php</filename>
+	</files>
+
+</extension>
