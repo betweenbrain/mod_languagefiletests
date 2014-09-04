@@ -11,6 +11,7 @@
 
 	<files>
 		<filename module="mod_languagefiletests">mod_languagefiletests.php</filename>
+		<folder>language</folder>
 	</files>
 
 </extension>
