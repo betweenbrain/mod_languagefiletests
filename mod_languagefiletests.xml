@@ -13,4 +13,9 @@
 		<filename module="mod_languagefiletests">mod_languagefiletests.php</filename>
 	</files>
 
+	<languages>
+		<language tag="en-GB">language/en-GB/en-GB.mod_languagefiletests.ini</language>
+		<language tag="en-GB">language/en-GB/en-GB.mod_languagefiletests.sys.ini</language>
+	</languages>
+
 </extension>
